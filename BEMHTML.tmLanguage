@@ -540,7 +540,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b|[^\.](apply|applyNext|applyCtx|template|extends|local|break|case|catch|continue|do|default|else|finally|for|goto|if|import|package|return|switch|throw|try|while)\b</string>
+			<string>\b(apply|applyNext|applyCtx|template|extends|local|break|case|catch|continue|do|default|else|finally|for|goto|if|import|package|return|switch|throw|try|while)\b</string>
 			<key>name</key>
 			<string>keyword.control.js</string>
 		</dict>
